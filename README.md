@@ -11,7 +11,7 @@ This project overcomes those limitations by:
 - Offering a desktop GUI for easy, interactive predictions
 - Making forecasting accessible for education, agriculture, and disaster planning
 
-- ## ⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 - **Languages & Tools:** Python, Tkinter
 - **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
@@ -23,7 +23,7 @@ This project overcomes those limitations by:
   - MLP Classifier
   - Linear Regression
  
-  - ## ✅ Solution (ML-Based Forecasting System)
+## ✅ Solution (ML-Based Forecasting System)
 
 - 📥 **Data Collection:** Use historical weather data in CSV format from institutional sources  
 - 🧹 **Preprocessing:** Handle missing values, normalize features, and encode categorical data  
@@ -34,7 +34,8 @@ This project overcomes those limitations by:
 - 💻 **User Interface:** Deploy a Tkinter-based GUI for real-time weather predictions  
 - 🔁 **Continuous Learning:** Periodically retrain the model with new data for better forecasting
 
-- ## 🔭 Future Enhancements
+
+## 🔭 Future Enhancements
 
 - 🌐 Real-time integration with **live weather APIs**
 - 🤖 Apply **LSTM/ANN** models for better time-series forecasting
